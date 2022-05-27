@@ -1,0 +1,12 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\kindl\\onedrive\\desktop\\unrealengine\\projects\\eoslearning\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_framework_cpp\\src\\main\\util\\hashing.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\kindl\\onedrive\\desktop\\unrealengine\\projects\\eoslearning\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
