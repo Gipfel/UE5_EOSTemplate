@@ -1,4 +1,4 @@
-C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RiderShaderInfoDump\RiderShaderInfoDump.cpp
+C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RiderShaderInfoDump\RiderShaderInfoDump.cpp
 /I .
 /I Runtime
 /I Runtime\TraceLog\Public
@@ -7,17 +7,17 @@ C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Develo
 /I Runtime\Json\Public
 /I Runtime\RenderCore\Public
 /I Runtime\RHI\Public
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source
 /I ThirdParty\mimalloc\include
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfoDump\Definitions.h"
-/Fo"C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfoDump\RiderShaderInfoDump.cpp.obj"
-/sourceDependencies C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfoDump\RiderShaderInfoDump.cpp.json
+/FI"C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfoDump\Definitions.h"
+/Fo"C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfoDump\RiderShaderInfoDump.cpp.obj"
+/sourceDependencies C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderShaderInfoDump\RiderShaderInfoDump.cpp.json
 /Zc:inline
 /nologo
 /Oi

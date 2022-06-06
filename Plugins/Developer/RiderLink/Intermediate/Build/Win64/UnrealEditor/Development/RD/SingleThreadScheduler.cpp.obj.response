@@ -1,34 +1,34 @@
-C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler\SingleThreadScheduler.cpp
+C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler\SingleThreadScheduler.cpp
 /I .
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\src
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\thirdparty
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
-/I C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\src
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\thirdparty
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
+/I C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I ThirdParty\mimalloc\include
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h"
-/Fo"C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\SingleThreadScheduler.cpp.obj"
-/sourceDependencies C:\Users\kindl\OneDrive\Desktop\UnrealEngine\Projects\EOSLearning\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\SingleThreadScheduler.cpp.json
+/FI"C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h"
+/Fo"C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\SingleThreadScheduler.cpp.obj"
+/sourceDependencies C:\Users\kindl\OneDrive\Desktop\EOSTemplate\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\SingleThreadScheduler.cpp.json
 /Zc:inline
 /nologo
 /Oi
