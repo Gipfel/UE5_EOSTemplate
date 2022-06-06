@@ -329,7 +329,7 @@ int32 UEOSGameInstance::GetNumOfSessions()
 	return this->Sessions.Num();
 }
 
-FString UEOSGameInstance::GetSessionName(int32 SessionIndex)
+FString UEOSGameInstance::GetSessionID(int32 SessionIndex)
 {
 	FindAllSessions();
 	return this->Sessions[SessionIndex].GetSessionIdStr();
@@ -339,4 +339,31 @@ FString UEOSGameInstance::GetSessionOwnerName(int32 SessionIndex)
 {
 	FindAllSessions();
 	return this->Sessions[SessionIndex].Session.OwningUserName;
+}
+
+int32 UEOSGameInstance::GetSessionPing(int32 SessionIndex)
+{
+	FindAllSessions();
+	return this->Sessions[SessionIndex].PingInMs;
+}
+
+int32 UEOSGameInstance::GetSessionMaxSlots(int32 SessionIndex)
+{
+	FindAllSessions();
+	return this->Sessions[SessionIndex].Session.NumOpenPublicConnections;
+}
+
+FString UEOSGameInstance::GetPlayerName()
+{
+	if (OnlineSubsystem)
+	{
+		if (IOnlineIdentityPtr Identity = OnlineSubsystem->GetIdentityInterface())
+		{
+			FOnlineAccountCredentials AccountCredentials;
+			AccountCredentials.Type = TEXT("accountportal");
+
+			return Identity->GetPlayerNickname(0);
+		}
+	}
+	return FString("");
 }

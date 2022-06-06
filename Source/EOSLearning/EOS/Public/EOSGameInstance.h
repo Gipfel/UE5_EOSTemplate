@@ -63,10 +63,20 @@ public:
 	int32 GetNumOfSessions();
 
 	UFUNCTION(BlueprintCallable)
-	FString GetSessionName(int32 SessionIndex);
+	FString GetSessionID(int32 SessionIndex);
 
 	UFUNCTION(BlueprintCallable)
 	FString GetSessionOwnerName(int32 SessionIndex);
+
+	UFUNCTION(BlueprintCallable)
+	FString GetPlayerName();
+
+	UFUNCTION(BlueprintCallable)
+	int32 GetSessionPing(int32 SessionIndex);
+
+	UFUNCTION(BlueprintCallable)
+	int32 GetSessionMaxSlots(int32 SessionIndex);
+
 
 protected:
 	class IOnlineSubsystem* OnlineSubsystem;
