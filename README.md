@@ -14,7 +14,7 @@ Everything you need is inside the Source Folder. There you only have to search f
 This Git Repository includes a EOS_Testing.bat file. Edit it! The first path should be the folder path to your UnrealEditor.exe. The secound Path is the Path to your uproject of that Project. When executing this batch file the game will start and you only have to press TAB inside of the Game. Therefore is a menu with some functionalities like creating a session.
 
 # What is important to take notice of ?
-When testing, the Epic Games Overlay and Steams Overlay should always pop up. If not, your Artifact is probably wrong, maybe in the log window are some important informations.
+When testing, the Epic Games Overlay and Steams Overlay should always pop up. If not, your Artifact is probably wrong, maybe in the log window are some important informations. If the Artifact is correct, you should double check that Steam is running and on shipped builds you could have forgotten to create the steam_appid.txt.
 
 # What does it contain ?
 It contains a GameInstance with some essential EOS Functions, like creating a session.
